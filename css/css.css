@@ -1,0 +1,88 @@
+@charset "utf-8";
+/* CSS Document */
+#kuang{
+	height: 1780px;
+	width: 1200px;
+	border: #E6E6E6 solid 1px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#ding{
+	height:134px;
+	width:1200px;
+	margin-left:auto;
+	margin-right:auto;
+}
+.banner{
+	width:1200px;
+	height:538px;
+	margin-left:auto;
+	background:url(../img/pic/%E3%80%82.jpg);
+	margin-right:auto;
+	margin-top:3px;
+}
+.gonggao{
+	width:595px;
+	height:452px;
+	float:left;
+	border:#E6E6E6 1px solid;
+	margin-top:2px;
+}
+.gonggao2{
+	width:595px;
+	height:452px;
+	float:right;
+	border:#E6E6E6 1px solid;
+	margin-top:2px;
+}
+.gonggao li{
+	width:595px;
+	list-style-type:none; 
+	line-height:68px; 
+	color:#646464;  
+	text-align:center;
+	border:#E6E6E6 1px solid;
+}
+.gonggao2 li{
+	width:595px;
+	list-style-type:none; 
+	line-height:68px; 
+	color:#646464;  
+	text-align:center;
+	border:#E6E6E6 1px solid;
+	margin-left:auto;
+	margin-right:auto;
+}
+.gonggao li a{
+	font-size:25px;
+	text-decoration:none;
+}
+.gonggao2 li a{
+	font-size:25px;
+	text-decoration:none;
+}
+.gonggao li a:hover{
+	background:#681821; color:#FFFFFF; display:block; height:68px;
+}
+.gonggao2 li a:hover{
+	background:#681821; color:#FFFFFF; display:block; height:68px;
+}
+.guanggao{
+	width:1200px;
+	height:120px;
+	background:url(../img/pic/22.png);
+	margin-top:455px;
+
+}
+.guanggao2{
+	width:1200px;
+	height:120px;
+	background:url(../img/pic/22.png);
+	margin-top:auto;
+}
+.dibu{
+	width:1200px;
+	height:280px;
+	margin-left:auto;
+	margin-right:auto;
+}

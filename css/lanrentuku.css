@@ -1,0 +1,9 @@
+
+#lemon_menu{width: 100%;margin: 0 auto;height: 55px;position: relative;z-index: 10;}
+.lemon_menu{width:1200px;margin: 0 auto;height: 55px;line-height: 55px;background: #fafafa;border-top: 1px solid #e6e6e6;}
+.lemon_menu li{width:240px; float:left; list-style-type:none; line-height:55px; color:#646464;  text-align:center;}
+.lemon_menu li a{  font-size:16px;
+text-decoration:none;
+color:#000; }
+.lemon_menu li a:hover{background:#681821; color:#FFFFFF; display:block; height:55px;}
+
